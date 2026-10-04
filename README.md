@@ -1,5 +1,6 @@
 # CSC649 Setup & Word Count Tool
 
+
 ## Description
 This program is a simple text analysis tool written in Python. It accepts an input sentence from the user, validates whether the input is empty, and calculates both the total word count and total character count (including spaces).
 
