@@ -1,4 +1,5 @@
 # CSC649: Modified with character count and empty input validation
+# Updated feature
 
 sentence = input("Enter a sentence: ")
 
